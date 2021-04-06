@@ -1,3 +1,8 @@
+This is a simple responsive weather app that provides weather forecasts for 5 days. Specifically condition, temperature, wind, precipitation probability and barometric pressure. It was bootstrapped with Create React App and it uses axios to access the Open Weather API. It also employs React Hook Form for form validation. The App uses React Hooks instead of classes.
+
+The following are the Create React App instructions:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
